@@ -7,7 +7,7 @@ using namespace std;
 struct Employee {
     string name;
     int age;
-    string gender;
+    char gender;
     string position;
     double salary;
     string email;
